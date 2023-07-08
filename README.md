@@ -4,7 +4,7 @@ This is a simple React.js application that fetches and displays posts from the J
 
 ## Demo Link
 
-[https://vue-page-v01.vercel.app/](https://vue-page-v01.vercel.app/)
+[https://sample-react-crud.vercel.app/](https://sample-react-crud.vercel.app/)
 
 ## Features
 
@@ -23,29 +23,29 @@ Make sure you have the following installed:
 
 1. Clone the repository:
 
-   \`\`\`bash
+   ```bash
    git clone <repository-url>
-   \`\`\`
+   ```
 
 2. Navigate to the project's directory:
 
-   \`\`\`bash
+   ```bash
    cd jsonplaceholder-page
-   \`\`\`
+   ```
 
 3. Install the dependencies:
 
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 ## Usage
 
 1. Start the development server:
 
-   \`\`\`bash
+   ```bash
    npm start
-   \`\`\`
+   ```
 
 2. Open your web browser and visit \`http://localhost:3000\` to view the application.
 
